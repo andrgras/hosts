@@ -2,7 +2,8 @@
 # This hosts file contains LV adds list
 # Date: 22 April 2025
 # Fetch the latest version of this file: https://raw.githubusercontent.com/andrgras/hosts/refs/heads/main/hosts
-#=====================================
-# Hosts
+#=============================
+#=========== HOSTS ===========
+#=============================
 
 0.0.0.0 b.adbox.lv
