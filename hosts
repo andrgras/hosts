@@ -1,4 +1,8 @@
-
-
+# Title: andrgras/hosts
+# This hosts file contains LV adds list
+# Date: 22 April 2025
+Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+#=====================================
+# Hosts
 
 0.0.0.0 b.adbox.lv
